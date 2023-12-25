@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 255, 246);
+}
+img {
+    width: 800px;
+    height: 700px;
+    padding: 10px;
+}
+h3{
+    display: inline;
+}
+input {
+    margin: 15px 2px;
+}
+
+.container{
+    box-sizing: border-box;
+    
+    height: 300px;
+}
